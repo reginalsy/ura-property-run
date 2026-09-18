@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Private Property Prices",
+  "description": "Real-time analytics and transaction viewer for Singapore private residential property prices with backend API integration placeholders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
